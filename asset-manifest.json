@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Setka/static/css/main.cb2dc2e7.css",
+    "main.js": "/Setka/static/js/main.8af013b8.js",
+    "static/js/787.252a1158.chunk.js": "/Setka/static/js/787.252a1158.chunk.js",
+    "index.html": "/Setka/index.html",
+    "main.cb2dc2e7.css.map": "/Setka/static/css/main.cb2dc2e7.css.map",
+    "main.8af013b8.js.map": "/Setka/static/js/main.8af013b8.js.map",
+    "787.252a1158.chunk.js.map": "/Setka/static/js/787.252a1158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2dc2e7.css",
+    "static/js/main.8af013b8.js"
+  ]
+}
