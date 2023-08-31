@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/setka-game/static/css/main.cb2dc2e7.css",
+    "main.js": "/setka-game/static/js/main.b39f67c7.js",
+    "static/js/787.252a1158.chunk.js": "/setka-game/static/js/787.252a1158.chunk.js",
+    "index.html": "/setka-game/index.html",
+    "main.cb2dc2e7.css.map": "/setka-game/static/css/main.cb2dc2e7.css.map",
+    "main.b39f67c7.js.map": "/setka-game/static/js/main.b39f67c7.js.map",
+    "787.252a1158.chunk.js.map": "/setka-game/static/js/787.252a1158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2dc2e7.css",
+    "static/js/main.b39f67c7.js"
+  ]
+}
